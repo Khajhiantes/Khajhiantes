@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi👋
 ## I’m currently learning c#
 ## I'm a student at UTN 
 
